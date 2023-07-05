@@ -160,7 +160,7 @@ soon
 👤 **Diana Beki**
 
 - GitHub: [@Diana](https://github.com/DianaBeki)
-- LinkedIn: [@Mofuhidy](https://www.linkedin.com/feed/)
+- LinkedIn: [@Diana](https://www.linkedin.com/feed/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
