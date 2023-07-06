@@ -56,6 +56,7 @@
 
 - Make simple calculations.
 - Read a random math-related quote.
+- Use functional componets
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
