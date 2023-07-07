@@ -57,3 +57,13 @@
 .button:hover {
   background-color: #e6e6e6;
 }
+
+.loadDiv {
+  font-family: bold;
+  font-size: 1rem;
+  color: black;
+  text-shadow: 1px 1px 0 black;
+  text-align: center;
+  width: 51vw;
+  margin: 0 auto;
+}
