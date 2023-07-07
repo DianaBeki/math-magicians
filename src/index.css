@@ -16,10 +16,6 @@
   color: #fff;
 }
 
-.display:hover {
-  background-color: #e6e6e6;
-}
-
 .button-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
