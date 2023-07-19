@@ -68,11 +68,10 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+<!-- LIVE DEMO
 
-## 🚀 Live Demo <a name="live-demo"></a>
+🚀 Live Demo <a name="live-demo">Coming soon</a> -->
 
- This is 'Math-magician' application <a href="https://math-magician-react-tvvm.onrender.com/">Live Demo Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
