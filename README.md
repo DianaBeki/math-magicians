@@ -68,10 +68,10 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO
+ LIVE DEMO
 
-🚀 Live Demo <a name="live-demo">Coming soon</a> -->
-
+🚀 Live Demo <a name="live-demo"></a>
+[Live Demo Link](https://mathmagicians-4bmj.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
