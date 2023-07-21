@@ -2,7 +2,7 @@
 import React from 'react';
 
 const Home = () => (
-  <div
+  <div data-testid="text"
     style={{
       display: 'flex',
       justifyContent: 'center',
@@ -19,7 +19,7 @@ const Home = () => (
   >
     <h1>Math Magicians</h1>
     <h3>Welcome to our page</h3>
-    <p>
+    <p data-testid="words">
       Math magicians, also called mathemagicians, are people who combine math and magic to create impressive performances.
       They have discovered that math can be used to create tricks that seem impossible.
       By using their knowledge of math, they amaze audiences with tricks that defy logic.
