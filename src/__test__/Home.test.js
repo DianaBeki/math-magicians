@@ -1,5 +1,6 @@
 import { render } from '@testing-library/react';
 import Home from '../pages/Home';
+
 describe('Home component', () => {
   it('must render Home component', () => {
     const { getByTestId } = render(<Home />);
